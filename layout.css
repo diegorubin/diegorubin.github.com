@@ -1,0 +1,28 @@
+a:visited{ color:black; }
+a{text-decoration:none;}
+
+h2 {
+    border-bottom-style:solid;
+    margin:0px;
+}
+
+#conteudo {
+    padding-left: 30%;
+}
+
+#dados {
+    text-align:left;
+}
+
+#quem_sou {
+    float: left;
+    font-family: monospace;
+    font-size: 14px;
+    font-style: normal;
+    text-align: center;
+    width: 30%;
+}
+
+#quem_sou ul {
+    list-style:none;
+}
