@@ -21,6 +21,7 @@ h2 {
     font-style: normal;
     text-align: center;
     width: 30%;
+    position:fixed;
 }
 
 #quem_sou ul {
